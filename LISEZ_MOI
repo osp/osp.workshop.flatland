@@ -1,0 +1,129 @@
+Flatland
+========
+
+
+        _/_/_/_/  _/          _/_/    _/_/_/_/_/  _/          _/_/    _/      _/  _/_/_/   
+       _/        _/        _/    _/      _/      _/        _/    _/  _/_/    _/  _/    _/  
+      _/_/_/    _/        _/_/_/_/      _/      _/        _/_/_/_/  _/  _/  _/  _/    _/   
+     _/        _/        _/    _/      _/      _/        _/    _/  _/    _/_/  _/    _/    
+    _/        _/_/_/_/  _/    _/      _/      _/_/_/_/  _/    _/  _/      _/  _/_/_/       
+
+
+
+Ce dépôt est constitué des recettes, textes de référence et autre matériel
+collectés dans le cadre de l'atelier _Flatland_ à l'École Supérieure d'Art et
+Design de Saint-Étienne.
+
+
+Licence
+-------
+
+Copyright 2012, Stéphanie Vilayphiou, Alexandre Leray Tous droits réservés.
+Licence: GNU-GPL 3
+
+Ce programme est un logiciel libre ; vous pouvez le redistribuer ou le modifier
+suivant les termes de la “GNU General Public License” telle que publiée par la
+Free Software Foundation : soit la version 3 de cette licence, soit (à votre
+gré) toute version ultérieure.
+
+Ce programme est distribué dans l’espoir qu’il vous sera utile, mais SANS
+AUCUNE GARANTIE : sans même la garantie implicite de COMMERCIALISABILITÉ ni
+d’ADÉQUATION À UN OBJECTIF PARTICULIER. Consultez la Licence Générale Publique
+GNU pour plus de détails.
+
+Vous devriez avoir reçu une copie de la Licence Générale Publique GNU avec ce
+programme ; si ce n’est pas le cas, consultez : <http://www.gnu.org/licenses/>.
+
+
+Projet
+------
+
+> 1. La concision est merveilleuse.
+> 2. Écrivez des programmes qui font une seule chose mais qui le font bien.
+> 3. Concevez un prototype dès que possible.
+> 4. Préférez la portabilité à l'efficacité.
+> 5. Stockez les données en ASCII.
+> 6. Utilisez le levier du logiciel à votre avantage.
+> 7. Utilisez les scripts shell pour améliorer l'effet de levier et la portabilité.
+> 8. Évitez les interfaces utilisateur captives.
+> 9. Faites de chaque programme un filtre.
+>
+> _La Philosophie Unix_, Mike Gancarz, 1994
+
+Une des qualités du logiciel libre est d'encourager la création de ses propres
+outils en piochant dans un écosystème de programmes existants. Si cela a été
+socialisé par la création d'un cadre juridique propice, on retrouve certains
+des fondements techniques dans le système d'exploitation UNIX, sur lequel est
+basé GNU Linux et Mac OS, dont un des concepts les plus brillants est celui de
+_pipeline_. Il y existe des milliers de logiciels en ligne de commande
+(interface textuelle pour interagir avec un ordinateur) qui, comme le stipule
+le point numéro 2, ne font qu'une seule et simple chose. Mais la _magie_ réside
+dans la possibilité de combiner ces différents programmes ou "briques
+logicielles": le résultat de l'une peut alors en alimenter une autre, et ainsi
+de suite. Il devient dès lors très facile de se créer son propre logiciel en
+combinant ces briques. Plutôt que d'être un couteau suisse voulant répondre à
+tous les besoins, UNIX est une boîte à outils.
+
+Un seul caractère typographique, une seule taille de corps, pas de gras, pas
+d'italique, pas de souligné... Cela semble ne pas laisser beaucoup de libertés
+de mise en page, et pourtant!  Nous découvrirons les joies du texte brut (texte
+sans enrichissement visuel) et de l'ASCII Art (images composées uniquement de
+glyphes) en produisant collectivement et à partir de filtres textuels simples
+des objets éditoriaux.
+
+
+Pour commencer
+--------------
+
+- Placer ce dossier dans votre dossier de travail
+- Ouvrir une fenêtre de Terminal
+  - sur MacOS :
+    - Aller dans Applications/Utilitaires/Terminal
+- Aller dans votre dossier de travail (en indiquant le chemin à votre terminal) :
+  $ cd /Volumes/votre-disque-dur/.../votre-dossier-de-travail/
+  (la commande *cd* permet de changer de répertoire, en anglais *Change Directory*)
+    - *ASTUCE* la touche TAB vous permet d'auto-compléter les noms de dossier et de fichier; ainsi vous n'avez pas besoin de connaître l'arborescence du disque dur et les noms de fichiers par cœur!
+- Aller dans le dossier script du pack "PleaseMakeMeDesign" :
+  $ cd pleasemakemedesign/scripts
+  
+
+Solution alternative (pour ne pas écrire le chemin d'un dossier à la main)
+--------------------------------------------------------------------------
+
+1. Placer ce dossier dans votre dossier de travail
+2. Ouvrir une fenêtre de Terminal
+  - sur MacOS :
+    - Aller dans Applications/Utilitaires/Terminal
+3. taper "cd"
+4. Trouver le dossier du pack dans le Finder
+5. Glisser/déposer ce dossier dans le terminal
+6. Appuyer sur Entrée
+
+
+Astuces
+-------
+
+- `../` signifie dossier supérieur;
+- taper `-h` ou `--help` après le nom d'un programme permet d'en afficher l'aide .
+
+
+Expérimenter
+------------
+
+Vous pouvez à présent tester les lignes de commandes décrites dans les fichiers
+`references/techniques/coreutils.txt` ou `references/techniques/exemples.txt`.
+N'ayez pas peur de perdre des fichiers ou de lancer une commande dangereuse. 
+
+A part les commandes `rm`, `>`  et `>>`, rien ne modifie vos fichiers. La
+commande `rm` supprime un fichier (à utiliser avec précaution car le fichier
+est directement supprimé sans passer par la corbeille!).  La commande `>`
+permet d'enregistrer le résultat obtenu dans un fichier. La commande `>>`
+permet d'enregistrer le résultat obtenu à la suite d'un fichier existant. 
+ 
+Pour appeler un fichier se situant dans un sous-dossier, taper:
+    
+    $ mon-dossier/mon-fichier.txt
+
+Pour appeler un fichier dans un dossier supérieur, taper:
+    
+    $ ../mon-fichier.txt
