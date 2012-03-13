@@ -425,7 +425,7 @@
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="51477.2985826772" PAGEWIDTH="368.503937007874" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="52.4409448818898" BORDERBOTTOM="85.8274015748031" NUM="161" NAM="" MNAM="droite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="35.6654 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="468.504566929134" PAGEYPOS="51477.2985826772" PAGEWIDTH="368.503937007874" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="52.4409448818898" BORDERBOTTOM="85.8274015748031" NUM="162" NAM="" MNAM="droite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="35.6654 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="52112.5738582677" PAGEWIDTH="368.503937007874" PAGEHEIGHT="595.275590551181" BORDERLEFT="34.0157480314961" BORDERRIGHT="28.3464566929134" BORDERTOP="70" BORDERBOTTOM="100" NUM="163" NAM="" MNAM="blank" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="35.6654 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGE PAGEXPOS="468.504566929134" PAGEYPOS="52112.5738582677" PAGEWIDTH="368.503937007874" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="52.4409448818898" BORDERBOTTOM="85.8274015748031" NUM="164" NAM="" MNAM="droite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="35.6654 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="468.504566929134" PAGEYPOS="52112.5738582677" PAGEWIDTH="368.503937007874" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="52.4409448818898" BORDERBOTTOM="85.8274015748031" NUM="164" NAM="" MNAM="chapter" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="35.6654 243.249 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="52747.8491338583" PAGEWIDTH="368.503937007874" PAGEHEIGHT="595.275590551181" BORDERLEFT="34.0157480314961" BORDERRIGHT="28.3464566929134" BORDERTOP="70" BORDERBOTTOM="100" NUM="165" NAM="" MNAM="blank" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="35.6654 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="468.504566929134" PAGEYPOS="52747.8491338583" PAGEWIDTH="368.503937007874" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="52.4409448818898" BORDERBOTTOM="85.8274015748031" NUM="166" NAM="" MNAM="droite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="35.6654 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="53383.1244094488" PAGEWIDTH="368.503937007874" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="52.4409448818898" BORDERBOTTOM="85.8274015748031" NUM="167" NAM="" MNAM="droite" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="35.6654 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
@@ -22740,6 +22740,9 @@
             <para/>
             <para/>
             <para/>
+            <para/>
+            <para/>
+            <para/>
             <ITEXT CH="          /'\_/`\          /\ \      __                     "/>
             <para/>
             <ITEXT CH="         /\      \     __  \ \ \/'\ /\_\    ___      __     "/>
@@ -24590,15 +24593,13 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="182" PTYPE="4" XPOS="496.851023622047" YPOS="57882.4922834646" WIDTH="311.811023622047" HEIGHT="457.007244094488" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 457.007 311.811 457.007 311.811 457.007 311.811 457.007 0 457.007 0 457.007 0 457.007 0 457.007 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 311.811 0 311.811 0 311.811 0 311.811 0 311.811 457.007 311.811 457.007 311.811 457.007 311.811 457.007 0 457.007 0 457.007 0 457.007 0 457.007 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="CRÉDITS"/>
+            <para/>
+            <para/>
             <ITEXT CH="Cette publication est issue d'un atelier mené par &lt;stdin&gt; "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="(Stéphanie Vilayphiou et Alexandre Leray) auprès des étudiants en design de lʼÉcole Supérieur dʼArt et design de Saint-Étienne, sur une invitation de Samuel Vermeil en mars 2012."/>
             <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="CRÉDITS"/>
-            <para/>
             <para/>
             <ITEXT CH="_Flatland_ est un roman écrit par Edwin Abbott Abbott en 1884. Cette œuvre fait partie du domaine public. La version française est disponible sur http://www.ebooksgratuits.com/pdf/abbot_flatland.pdf ."/>
             <para/>
@@ -24611,6 +24612,10 @@
             <para/>
             <para/>
             <ITEXT CH="Les titres ASCII ont été générés par Figlet ( http://www.figlet.org/ ) avec les typographies isometric, larry3D, lean et mini."/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="Tous les fichiers sources de la publication sont disponibles sur http://git.constantvzw.org/?p=osp.workshop.flatland.git;a=tree . "/>
             <trail/>
             <Tabs Type="0" Pos="17.00787402" Fill=""/>
             <Tabs Type="0" Pos="34.01574803" Fill=""/>
