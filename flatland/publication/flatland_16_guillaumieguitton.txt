@@ -1,0 +1,83 @@
+
+-->conversion glyphe:  ⎸ ▢ ◯  ⎸ ▢ ◦ ⎸ ▢ ◌! ⎸
+-->-->-->-->-->-->-->-->
+                             ⎸ ▢ ◯  ⎸ ▢ ◦ ⎸ ▢ ◌! ⎸
+                            grep --color=none "Je ne vis rien" 
+                            | fmt 50 50 | fmt -c
+        Je ne vis rien qui ressemblât à une « élévation »
+          mais il diminua et disparut. Je clignai une ou
+         deux fois des paupières pour m'assurer que je ne
+         rêvais pas. Non, il ne s'agissait pas d'un rêve.
+        Car des profondeurs de nulle part surgit une voix
+         creuse – il me sembla qu'elle retentissait tout
+           près de mon cœur – et cette voix me dit : «
+           N'ai-je pas disparu ? Êtes-vous convaincu à
+             présent ? Maintenant, je vais retourner
+         progressivement à Flatland et vous allez voir la
+                       section s'élargir.»
+                                ⎸ ▢ ◯  ⎸ ▢ ◦ ⎸ ▢ ◌! ⎸
+-->conversion ascii:
+-->-->-->-->-->-->-->
+
+............................................................
+............................................................
+.... .......................................................
+..................,..............,...N .....................
+.................. .............,... M ..........D  .M......
+............ ......I............M..MMMM......... . .........
+............,....MMM ............ M$ ...........   .M~..M ..
+...... MN.D... .$.   ...D.  ................. DMMM$$........
+..........  ....   .....M.......?....................M......
+........... ............M...................................
+...........M .. .. ..  .. .  .  .  .7M   . .......... ......
+.................  ...... ....  Z ..................  ......
+.......D~ . .....  .........................................
+.....................................................?......
+.....................  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+-->conversion svg:
+-->-->-->-->-->-->-->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, 
+SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://
+www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ x="0px" y="0px"
+	 width="841.89px" height="1190.55px" viewBox=
+"0 0 841.89 1190.55" enable-background="new 0 0 841.89 1190.55"
+	 xml:space="preserve">
+<image overflow="visible" width="1420" height="555" 
+xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEA
+lgCWAAD/4Qt9RXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUA
+AAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAExAAIAAAAeAAAAcgEyAAIAAAAUAAAAkIdp
+AAQAAAABAAAApAAAANAAFuNgAAAnEAAW42AAACcQQWRvYmUgUGhvdG9zaG9wIENTNCBNYWNpbnRv
+c2gAMjAxMjowMzowNiAxNzowMzo1NQAAA6ABAAMAAAAB//8AAKACAAQAAAABAAAFjKADAAQAAAAB
+AAACKwAAAAAAAAAGAQMAAwAAAAEABgAAARoABQAAAAEAAAEeARsABQAAAAEAAAEmASgAAwAAAAEA
+AgAAAgEABAAAAAEAAAEuAgIABAAAAAEAAApHAAAAAAAAAEgAAAABAAAASAAAAAH/2P/gABBKRklG
+AAECAABIAEgAAP/tAAxBZG9iZV9DTQAB/+4ADkFkb2JlAGSAAAAAAf/bAIQADAgICAkIDAkJDBEL
+CgsRFQ8MDA8VGBMTFRMTGBEMDAwMDAwRDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAENCwsN
+Dg0QDg4QFA4ODhQUDg4ODhQRDAwMDAwREQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwM/8AAEQgAPwCgAwEiAAIRAQMRAf/dAAQACv/EAT8AAAEFAQEBAQEBAAAAAAAAAAMAAQIEBQYH
+CAkKCwEAAQUBAQEBAQEAAAAAAAAAAQACAwQFBgcICQoLEAABBAEDAgQCBQcGCAUDDDMBAAIRAwQh
+EjEFQVFhEyJxgTIGFJGhsUIjJBVSwWIzNHKC0UMHJZJT8OHxY3M1FqKygyZEk1RkRcKjdDYX0lXi
+ZfKzhMPTdePzRieUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9jdHV2d3h5ent8fX5/cRAAICAQIE
+BAMEBQYHBwYFNQEAAhEDITESBEFRYXEiEwUygZEUobFCI8FS0fAzJGLhcoKSQ1MVY3M08SUGFqKy
+gwcmNcLSRJNUoxdkRVU2dGXi8rOEw9N14/NGlKSFtJXE1OT0pbXF1eX1VmZ2hpamtsbW5vYnN0dX
+Z3eHl6e3x//aAAwDAQACEQMRAD8A9SppqoqZTSxtVVTQyutgDWta0bWMYxvtaxrVNJJJSkkkklKS
+SSSUpJJJJSkkkklKSSVXL6lh4b2V3PJutk101sfbY4CA+wUUNst9Jm5nqW7PSr3+9JTaSVKnq+Fb
+ktxCX05NgLqqr631F4b9P0PWaxt/p/4VtW/0v8J/OMV1JSkkkklKSSSSUpJJJJT/AP/Q9VSSSSUp
+JJJJTm5GZnZGc7B6b6bBjhpzMu1pe1heN7MWmljqvUyXVfprPUuZ9mrtxrPSyfXUv2dmgAjqmSXD
+95mOWnyc1uKz2/21HAtZT1HNwrfbkWWfaqt3NtJbVUba/wB77Pa37LYz6dP6v6v9Jx/UvX3041Fm
+Re8V00sdZbY7QNY0b3vd/Ja0JKcTCbk4/XPSvsroycibb20j9BlsDXVsvFL3Ptwep1PbU1+661mX
+h1fzmX9n/wAmb64yvqTuofW8bafStrFNIaW/pQ1odl3OfYD7fsjvtWLlfzlWzqGD6V36/wCnZ1PT
+Mw5/TcXOLBX9qpZdsB3BosaLA3fDd+3d9JJTaSSVa/qXTsZxbk5VNLmjc5tljWkD9473BJTZWb0O
+lrsX9p2Q7L6k1t91mhhhG7GxWO/0OJU/069v85Z62V/PZNym/r3Ra2l786hrG/TsNjdjf+Mtn06/
+7blmZ1H1oxa68HpddVuH6jh65eDcyhzXenjjGtFNLvQe9tdV32z+Yp/SV+okpzvrv1yzfX0rFe3H
+sLXZTcl7Q4D0GHIqyKHhzmsbi2s9XJ9X6Hpf6LKXY1lxY0vG1xALh4FcN0/6pdRZnYWTm4zXFpbt
+oDmuqoay31nercBRt3s93o4mPfbmZdWP9pyaOn/aa7ezwabqcSuvIfvuEmwglwlxLy1rn+9zGbtj
+NySmwkkkkpp5OdYzKZh4tP2jILPUslwYytk7GOufFj/0zm2eg1lL/U9G79xZvRvrLd17EyMrpVOP
+c3Hudjkuvsax1jA17tln2N36L9JXst9P+wrhOVh9QvtOO/Jx8rY5ttRaX1ljfTNFlb3Vu9H/AA1L
+6vW/S3ZPq+j+j9XO+rJGB0x1ONifaT69wtfh41OFUbGOOPa0Y9ltHvpdT9nse7fvfX+fUkp2unZn
+23EZkGt1LyXssqcQSyyt7qLq9zJY/ZbW/
